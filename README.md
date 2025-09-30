@@ -27,8 +27,6 @@ Body assertions – Validates fields like token, email, error
 Error handling – Covers missing credentials and invalid resources
 
 # Author
-
-Mati Tripodi – QA Automation Engineer  
-Villa Carlos Paz, Argentina  
-LinkedIn: https://www.linkedin.com/in/matias-tripodi-139925a0/
-GitHub: https://github.com/MTRIPODI15
+Matías Tripodi  
+[LinkedIn](https://www.linkedin.com/in/matias-tripodi-139925a0/)
+[GitHub Repo](https://github.com/matitripodi/demoqa-selenium-tests)
